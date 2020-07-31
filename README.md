@@ -1,4 +1,4 @@
-# A simple counter-App using React
+# A simple React Project
 
 ## Scripts
 
